@@ -1,0 +1,16 @@
+ table{
+ 	width: 100%;
+ 	font-size: 18px;
+ 	text-align: center;
+ 	border-collapse: collapse;
+ 	background-color:yellow; 
+ }
+ tr{}
+ td{
+ 	border: 1px solid;
+ }
+ h1{
+ 	width: 100px;
+ 	font-size: 18px;
+
+ }
